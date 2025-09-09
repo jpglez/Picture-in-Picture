@@ -13,3 +13,5 @@ A simple web application that allows you to play a video or image in **Picture-i
 - **CSS3**  
 - **JavaScript (ES6+)**
 
+# Live Demo
+Check it out here:
