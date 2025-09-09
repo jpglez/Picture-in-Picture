@@ -13,5 +13,8 @@ A simple web application that allows you to play a video or image in **Picture-i
 - **CSS3**  
 - **JavaScript (ES6+)**
 
-# Live Demo
+# 🌐 Live Demo
 Check it out here:
+
+https://jpglez.github.io/Picture-in-Picture/
+
